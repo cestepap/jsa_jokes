@@ -28,6 +28,7 @@
     "@nguniversal/express-engine": "^9.1.1",
     "@schematics/angular": "^11.0.6",
     "@schematics/schematics": "^0.1100.6",
+    "angular-cli-ghpages": "^1.0.0-rc.1",
     "express": "^4.15.2",
     "git-install": "^0.5.2",
     "rxjs": "~6.5.4",
