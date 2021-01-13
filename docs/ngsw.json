@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1610389844098,
+  "timestamp": 1610533305533,
   "index": "/jsa_jokes/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/jsa_jokes/favicon.ico",
         "/jsa_jokes/index.html",
-        "/jsa_jokes/main-es2015.dd62ca7fe241f3cca4bc.js",
-        "/jsa_jokes/main-es5.dd62ca7fe241f3cca4bc.js",
+        "/jsa_jokes/main-es2015.4a12e1b48182cafb78ff.js",
+        "/jsa_jokes/main-es5.4a12e1b48182cafb78ff.js",
         "/jsa_jokes/manifest.webmanifest",
         "/jsa_jokes/polyfills-es2015.f332a089ad1600448873.js",
         "/jsa_jokes/polyfills-es5.177e85a9724683782539.js",
@@ -43,7 +43,7 @@
   ],
   "dataGroups": [
     {
-      "name": "images-api",
+      "name": "jokes-api",
       "patterns": [
         "https:\\/\\/official-joke-api\\.appspot\\.com\\/jokes\\/ten"
       ],
@@ -65,9 +65,9 @@
     "/jsa_jokes/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/jsa_jokes/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/jsa_jokes/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/jsa_jokes/index.html": "00c2961ad54e8627a1fa194c15f625e96970ac31",
-    "/jsa_jokes/main-es2015.dd62ca7fe241f3cca4bc.js": "bc2bc30b7027f42f2fcd9081540265410d875c1c",
-    "/jsa_jokes/main-es5.dd62ca7fe241f3cca4bc.js": "263abaeaf6ac295f1893ddc31bd7eb59d0c95360",
+    "/jsa_jokes/index.html": "d4e8b40b726fdab8f55a28354263604def1f8145",
+    "/jsa_jokes/main-es2015.4a12e1b48182cafb78ff.js": "0085aaf4a178a610bf80d4aebdeaebfb5473edac",
+    "/jsa_jokes/main-es5.4a12e1b48182cafb78ff.js": "85e56e6fe3b921244f3862041ccc1504984bf089",
     "/jsa_jokes/manifest.webmanifest": "999b929e3fbf2ea831cff5df30e0647f962f14c3",
     "/jsa_jokes/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/jsa_jokes/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
