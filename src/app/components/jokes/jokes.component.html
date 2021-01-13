@@ -3,10 +3,7 @@
   <div class="row">
     <div class="col-md-9">
       <div class="list-group">
-        <a
-          *ngFor="let joke of jokes"
-          class="list-group-item list-group-item-action animate__animate animate__bounce animate__fadeIn"
-        >
+        <a *ngFor="let joke of jokes" class="list-group-item">
           <strong>{{ joke.type }}: </strong>{{ joke.setup }}
           <button
             (click)="showPunchline(joke.punchline, joke.setup)"
